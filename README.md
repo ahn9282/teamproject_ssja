@@ -20,12 +20,22 @@ https://youtu.be/FVOKwQeobBc
 
 ### 팀원
 안준섭, 신 선, 정혁준, 서지연으로 4명이서 SSJA프로젝트를 진행하였습니다.
-
+백엔드 지망 4명이서 풀스택으로 프로젝트를 진행하였습니다.
+#### 팀원 별 Notion 포트폴리오
+안준섭 :https://clumsy-forest-a2f.notion.site/Backend-94409c4d3b624513b24044a279d4c19d<br>
+신 선 : https://stump-daphne-2c1.notion.site/19429393b9b6424c91546475f311e88c?pvs=4<br>
+서지연 : https://fantastic-situation-11d.notion.site/Grace-s-RESUME-74c98a5862b24434b3649ec104d09291<br>
+정혁준 : https://sturdy-day-4c9.notion.site/Web-Backend-f0801a9b1d594190abecfd470b7bb800?pvs=4<br>
 
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## ============== 개인적인 Readme =========
