@@ -16,32 +16,16 @@
 프로젝트 메인 페이지 화면입니다.
 
 간단한 시연영상 유튜브 링크입니다.
-https://youtu.be/FVOKwQeobBc
-
+https://youtu.be/FVOKwQeobBc<br>
+제 노션 링크입니다!
+https://clumsy-forest-a2f.notion.site/Backend-94409c4d3b624513b24044a279d4c19d<br>
 ### 팀원
 안준섭, 신 선, 정혁준, 서지연으로 4명이서 SSJA프로젝트를 진행하였습니다.
 백엔드 지망 4명이서 풀스택으로 프로젝트를 진행하였습니다.
-#### 팀원 별 Notion 포트폴리오
-안준섭 :https://clumsy-forest-a2f.notion.site/Backend-94409c4d3b624513b24044a279d4c19d<br>
-신 선 : https://stump-daphne-2c1.notion.site/19429393b9b6424c91546475f311e88c?pvs=4<br>
-서지연 : https://fantastic-situation-11d.notion.site/Grace-s-RESUME-74c98a5862b24434b3649ec104d09291<br>
-정혁준 : https://sturdy-day-4c9.notion.site/Web-Backend-f0801a9b1d594190abecfd470b7bb800?pvs=4<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-## ============== 개인적인 Readme =========
-해당 fork한 레포지토리로 개인의 맡은역할등을 담았습니다. 제출기간동안 밑으로 빼뒀습니다.
 
 ### 맡은 역할
+
 저는 팀장으로 이번 프로젝트에 참여하였습니다.
 - db관리 및 팀원, 일정 관리, 문서화를 통해 팀의 업무 효율향상과 유기적인 협업을 이끌어내고자 하였습니다.
 - 배포 총괄, 마이페이지 총괄, 메인 페이지 담당, 상품 조회 총괄 등등을 맡았습니다.
